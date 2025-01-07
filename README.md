@@ -1,3 +1,7 @@
+## NOTICE
+
+unofficial fork to remove jcenter and make jitpack work again.
+
 # Audio Visualizer
 [![API](https://img.shields.io/badge/API-14%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=14)
 [![Download](https://api.bintray.com/packages/gauravk95/maven-repo/audiovisualizer/images/download.svg) ](https://bintray.com/gauravk95/maven-repo/audiovisualizer/_latestVersion) 
@@ -5,7 +9,7 @@
 [![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-Gaurav%20Kumar-green.svg?style=flat )]( https://android-arsenal.com/details/1/7204 )
 [![Android Weekly]( https://img.shields.io/badge/Android%20Weekly-%23352-blue.svg )]( http://androidweekly.net/issues/issue-352 )
 
-A light-weight and easy-to-use Audio Visualizer for Android using the Android Canvas. 
+A light-weight and easy-to-use Audio Visualizer for Android using the Android Canvas.
 
 ## Demos
 
